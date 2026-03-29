@@ -101,5 +101,6 @@ Total time spent on assignment: ~5-7 hours
 Most challenging part: Tracking waiting time accurately for each process and updating it in real-time.
 
 Most interesting learning: Adding process priorities and seeing how context switches and waiting times affect the scheduling behavior—it made me understand process management better.
+What I would do differently next time: Next time, I would plan the features step by step, test each one as I go, and track waiting time more efficiently to save time and avoid errors.
 
 **What I would do differently next time**: 
