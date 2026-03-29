@@ -98,4 +98,4 @@ What I would do differently next time: Next time, I would plan the features step
 
 
 
-**What I would do differently next time**: 
+**What I would do differently next time**: Next time, I would plan the features step by step, test each one as I go, and track waiting time more efficiently to save time and avoid errors.
