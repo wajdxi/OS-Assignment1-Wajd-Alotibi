@@ -43,6 +43,7 @@ I feel Intermediate. I understand how to create threads, run them, and handle sh
 
 ---
 
-### Feedback on the assignment The assignment was helpful and gave me a clear understanding of multithreading. Some parts were a bit challenging, especially handling shared data between threads. I liked the hands-on approach, and it would be even better with a few more small examples. Overall, it was useful and improved my understanding of the topic.
+### Feedback on the assignment 
+The assignment was helpful and gave me a clear understanding of multithreading. Some parts were a bit challenging, especially handling shared data between threads. I liked the hands-on approach, and it would be even better with a few more small examples. Overall, it was useful and improved my understanding of the topic.
 
 [Any comments about the assignment? Was it helpful? Too easy/hard? Suggestions for improvement?]
