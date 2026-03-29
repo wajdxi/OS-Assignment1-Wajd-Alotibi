@@ -6,11 +6,8 @@ Document your development process as you work on the assignment. Add entries sho
 - Problems you encountered
 - How you solved them
 - Time spent
-
 **Requirements**: Minimum 5 entries showing progression over time.
-
 ---
-
 ## Your Development Log:
 
 ### Entry 1 - [23 mars 2026 and Time: 11 am]
@@ -47,9 +44,7 @@ Extensions may fail to install or cause conflicts.
  • Extensions issues: Restart VS Code or reinstall the extension.
  
 **Time spent**: 10-15 minutes
-
 ---
-
 ### Entry 3 - [25 mars 2026 and Time:11;30 am ]
 **What I did**: Feature 1: Add Process Priority 
 
@@ -60,9 +55,7 @@ Extensions may fail to install or cause conflicts.
 **Solution**: I fixed the display issue by using string formatting
 
 **Time spent**: 30-45 minutes
-
 ---
-
 ### Entry 4 - [26 mars 2026 and Time: 1pm]
 **What I did**: Feature 2: Count Context Switches
 
@@ -86,9 +79,7 @@ Extensions may fail to install or cause conflicts.
 **Solution**: Used System.currentTimeMillis() to record creation and calculate waiting time correctly for every process.
 
 **Time spent**: 1-2 hours 
-
----
-
+---------
 ## Summary
 - Set up GitHub repo — easy, 5 min
 - Download VS Code, link repo, install extensions — Git/extensions issues fixed by reinstalling, 10–15 min
