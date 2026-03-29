@@ -381,7 +381,7 @@ public class SchedulerSimulation {
         displayWaitingTimeSummary();
     }
     
-    // Method to add a process to the queue and map, while printing a "ready" message
+      // Method to add a process to the queue and map, while printing a "ready" message
     // FEATURE 1: Updated to display priority in the output message
     public static void addProcessToQueue(Process process, Queue<Thread> processQueue, 
                                         Map<Thread, Process> processMap) {
@@ -393,6 +393,7 @@ public class SchedulerSimulation {
         
         // Map the thread to the process, so we can track the process associated with each thread
         processMap.put(thread, process);
+
         
         // FEATURE 1: Updated output message to include priority
         // Example: "P1 (Priority: 4) enters the ready queue..."
@@ -472,5 +473,6 @@ public class SchedulerSimulation {
         System.out.println(Colors.BOLD + Colors.BRIGHT_CYAN + 
                           "╚════════════════════════════════════════════════════════════════════════════════╝" + 
                           Colors.RESET + "\n");
+                          
     }
 }
