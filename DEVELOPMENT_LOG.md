@@ -69,7 +69,7 @@ Extensions may fail to install or cause conflicts.
 
 ---
 
-### Entry 5 - 28 mars 2026 and Time:]
+### Entry 5 - 30 mars 2026 and Time:]
 **What I did**: Feature 3: Track Waiting Time
 
 **Details**: I added fields to track process creation time and total waiting time, calculated waiting time for each process, and showed a summary table at the end with name, burst time, and waiting time.
